@@ -1,4 +1,4 @@
-- About Me
+-About Me
 Hello World! My name is Henrique Matias, and I'm a beginner in the world of programming. I have a interest in statistics, and my main focus is on data science with a specialization in machine learning.
 Currently, I'm an undergraduate student in Computational Physics at the University of São Paulo (USP), starting in the year 2023. 
 I'm excited to explore the fascinating field of data science and its applications in various domains. 
